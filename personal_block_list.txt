@@ -7,7 +7,6 @@
 0.0.0.0 www.foxnews.com
 0.0.0.0 www.safedinar.com
 0.0.0.0 safedinar.com
-https://www.safedinar.com/buy-currency/iraqi-dinar/
 0.0.0.0 currencyliquidator.com
 0.0.0.0 treasuryvault.com
 0.0.0.0 order.ceifx.com
