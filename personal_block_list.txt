@@ -4,4 +4,4 @@
 0.0.0.0 foxnews.com
 0.0.0.0 fncstatic.com
 0.0.0.0 foxbusiness.com
-https://www.foxnews.com
+0.0.0.0 www.foxnews.com
