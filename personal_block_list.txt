@@ -5,3 +5,10 @@
 0.0.0.0 fncstatic.com
 0.0.0.0 foxbusiness.com
 0.0.0.0 www.foxnews.com
+0.0.0.0 www.safedinar.com
+0.0.0.0 currencyliquidator.com
+0.0.0.0 treasuryvault.com
+0.0.0.0 order.ceifx.com
+0.0.0.0 www.iqdbuy.com
+0.0.0.0 www.manorfx.com
+0.0.0.0 usfirstexchange.com
